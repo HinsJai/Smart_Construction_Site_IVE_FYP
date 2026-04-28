@@ -58,6 +58,12 @@ Three-tier distributed system:
 ### Dashboard
 <img src="common/dashboard.png" alt="Dashboard" width="600"/>
 
+### Object detection and on-screen violation alert
+<img src="common/object_detection_example.png" alt="Object detection and live violation alert example" width="900"/>
+
+### Discord notification alert example
+<img src="common/discord_notification_example.png" alt="Discord notification alert example" width="900"/>
+
 ### Adjust setting
 <img src="common/adjsut setting.png" alt="Adjust Setting" width="600"/>
 
